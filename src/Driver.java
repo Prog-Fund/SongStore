@@ -1,17 +1,17 @@
 
 public class Driver {
 
-    //TODO Define an object of the LegoSetAPI here.  It should be declared private.
+    //TODO Define an object of the Playlist here.  It should be declared private.
 
     public static void main(String[] args) {
         new Driver();
     }
 
-    //TODO Refer to the tutors instructions for building this class.  You are free to deviate in any way
+    //TODO Refer to the tutors instructions for building this class and for the menu.  You are free to deviate in any way
     //     from the Driver menu that is in the tutors instructions, once you have these included:
-    //       - CRUD on LegoSet
-    //       - CRUD on Instruction Booklets
-    //       - Search facility (for LegoSets and Booklets)
+    //     (with tests still compiling)
+    //       - CRUD on Playlist
+    //       - Search facility (for Songs)
     //       - Reports
     //       - Persistence
     // Note:  This is the ONLY class that can talk to the user i.e. have System.out.print and Scanner reads in it.
@@ -22,17 +22,12 @@ public class Driver {
 
 
     //------------------------------------
-    // Private methods for CRUD on LegoSet
+    // Private methods for CRUD on Song
     //------------------------------------
 
 
-    //--------------------------------------------------
-    //  Private methods for CRUD on Instruction Booklets
-    //--------------------------------------------------
-
-
     //-----------------------------------------------------------------
-    //  Private methods for Search facility (for LegoSets and Booklets)
+    //  Private methods for Search facility
     //-----------------------------------------------------------------
 
 

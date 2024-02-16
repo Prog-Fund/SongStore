@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/LegoStore-StarterCode.iml" filepath="$PROJECT_DIR$/LegoStore-StarterCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SongStore.iml" filepath="$PROJECT_DIR$/SongStore.iml" />
     </modules>
   </component>
 </project>
