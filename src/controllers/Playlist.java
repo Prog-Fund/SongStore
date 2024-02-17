@@ -211,18 +211,6 @@ public class Playlist {
     //    However, if the index is not valid, false is returned.
 
 
-    //-------------------------
-    // PERSISTENCE METHODS
-    //-------------------------
-
-    //TODO Add a method, load().  The return type is void.
-    //    This method uses the XStream component to deserialise the songs and their associated artists from
-    //    an XML file into the Songs array list.
-
-
-    //TODO Add a method, save().  The return type is void.
-    //    This method uses the XStream component to serialise the songs and their associated artists to
-    //    an XML file.
 
 }
 

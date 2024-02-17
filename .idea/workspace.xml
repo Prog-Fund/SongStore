@@ -1,31 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="920760e5-3f20-4f18-8c9a-1c2c10c099a4" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/kotlinc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/xstream_1_4_17.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LegoStore-StarterCode.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Driver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/controllers/LegoSetAPI.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/models/InstructionBooklet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/models/LegoSet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/utils/MinimumAgeUtility.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/utils/ScannerInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/ScannerInput.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/utils/ThemeUtility.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/utils/Utilities.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/controllers/LegoSetAPITest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/models/InstructionBookletTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/models/LegoSetTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/utils/MinimumAgeUtilityTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/utils/ThemeUtilityTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/utils/UtilitiesTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/models/Artist.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/models/Artist.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/controllers/PlaylistTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/controllers/PlaylistTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,9 +16,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2cS1HwnXAmf4aehwlU3Pnjd2iph" />
   <component name="ProjectViewState">
     <option name="autoscrollToSource" value="true" />
@@ -46,10 +27,18 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
@@ -70,6 +59,7 @@
       <option name="presentableId" value="Default" />
       <updated>1708090081171</updated>
       <workItem from="1708090082239" duration="42000" />
+      <workItem from="1708090150169" duration="3156000" />
     </task>
     <servers />
   </component>

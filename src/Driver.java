@@ -40,4 +40,13 @@ public class Driver {
     //  Private methods for Persistence
     // --------------------------------
 
+
+    //TODO Add a method, load().  The return type is void.
+    //    This method uses the XStream component to deserialise the playList object and their associated artists from
+    //    an XML file into the Songs array list.
+
+
+    //TODO Add a method, save().  The return type is void.
+    //    This method uses the XStream component to serialise the playList object and their associated artists to
+    //    an XML file.
 }
